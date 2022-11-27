@@ -46,7 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O HooBank é um projeto de um banco moderno, com um design simples e clean, com um layout responsivo para web e mobile. O projeto foi desenvolvido com o intuito de praticar e aperfeiçoar meus conhecimentos em React, JS e Tailwind.CSS, além de praticar o uso de componentes e constantes. O projeto foi desenvolvido com base no layout do [Figma](<https://www.figma.com/file/I1NX5JmJ
+O HooBank é um projeto de um banco moderno, com um design simples e clean, com um layout responsivo para web e mobile. O projeto foi desenvolvido com o intuito de praticar e aperfeiçoar meus conhecimentos em React, JS e Tailwind.CSS, além de praticar o uso de componentes e constantes. O projeto foi desenvolvido com base no layout do [Figma](<https://www.figma.com/file/I1NX5JmJbJNK84fBbPRKTY/HooBank-(Copy)?node-id=1%3A31&t=CsrxSf40k9upyZE1-1>)
 
 ---
 
